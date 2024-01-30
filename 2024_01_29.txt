@@ -1,0 +1,41 @@
+- Pronouncing the Past tense & make simple sentense 
+  - /id/
+    end             : 
+    invite          : We invited her to Claire's birthday party
+    count           : She counted the bills.
+    rent            : We rented the house for the vacation
+    want            : 
+    need
+    start
+    decide         
+    visit           : We visited Korea for my sister in law's wedding.
+  - /t/
+    like            : I liked her
+    fax
+    jump            : She jumped to the swimming pool
+    work
+    help            : I helped her to prepare dinner
+    look            : She looked at me
+    wash            : We washed the car
+    watch           : We watched both football game yesterday
+    laugh           : She laughed at me
+    breath 
+    kiss            : Taylor kissed Travis
+    dance           : 
+    fix             : I fixed the bug
+    reach           : We reached top of the mountain
+  - /d/
+    play            : We played the board game
+    beg 
+    save            : We saved the money for a vacation
+    promise         : We promised to go Jessy's 
+    study           : I studied at school
+    call            : I called her to wake up
+    clean           : I cleaned the house
+    offer           : They offered the job.
+    damage          : Our house was damaged by the hurrycane.
+    love            : I loved her
+    use             
+    follow
+    enjoy
+    amage
